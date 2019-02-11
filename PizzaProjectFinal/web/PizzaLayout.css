@@ -1,0 +1,32 @@
+html{
+    height: 100%;
+}
+body{
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    min-height: 100%;
+}
+.navDisplay{
+    background-color: #740005;
+    color: black;
+}
+.contDisplay{
+    
+    border-radius: 10px;
+}
+.btnDis{
+    background-color: #444801;
+}
+.t {
+    margin: auto;
+}
+.textElogin{
+    margin: auto;
+    text-align: center;
+}
+.displayBG{
+    background-color: #f5efdb;
+    border-radius: 10px;
+}
+
